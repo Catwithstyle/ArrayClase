@@ -1,0 +1,14 @@
+D:\ProyectosC#\Clase array\claseArray\claseArray\bin\Debug\net8.0\claseArray.exe
+D:\ProyectosC#\Clase array\claseArray\claseArray\bin\Debug\net8.0\claseArray.deps.json
+D:\ProyectosC#\Clase array\claseArray\claseArray\bin\Debug\net8.0\claseArray.runtimeconfig.json
+D:\ProyectosC#\Clase array\claseArray\claseArray\bin\Debug\net8.0\claseArray.dll
+D:\ProyectosC#\Clase array\claseArray\claseArray\bin\Debug\net8.0\claseArray.pdb
+D:\ProyectosC#\Clase array\claseArray\claseArray\obj\Debug\net8.0\claseArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosC#\Clase array\claseArray\claseArray\obj\Debug\net8.0\claseArray.AssemblyInfoInputs.cache
+D:\ProyectosC#\Clase array\claseArray\claseArray\obj\Debug\net8.0\claseArray.AssemblyInfo.cs
+D:\ProyectosC#\Clase array\claseArray\claseArray\obj\Debug\net8.0\claseArray.csproj.CoreCompileInputs.cache
+D:\ProyectosC#\Clase array\claseArray\claseArray\obj\Debug\net8.0\claseArray.dll
+D:\ProyectosC#\Clase array\claseArray\claseArray\obj\Debug\net8.0\refint\claseArray.dll
+D:\ProyectosC#\Clase array\claseArray\claseArray\obj\Debug\net8.0\claseArray.pdb
+D:\ProyectosC#\Clase array\claseArray\claseArray\obj\Debug\net8.0\claseArray.genruntimeconfig.cache
+D:\ProyectosC#\Clase array\claseArray\claseArray\obj\Debug\net8.0\ref\claseArray.dll
